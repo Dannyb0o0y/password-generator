@@ -12,4 +12,4 @@ GIT
 
 here is my github account if you are interested : https://github.com/Dannyb0o0y
 
-![](password generator.PNG)
+![App Screenshot](https://postimg.cc/K15Qjp3C)
